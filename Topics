@@ -16,3 +16,12 @@
 
 8. Web framework.
 
+9. No-Sql / Key-Value data store.
+
+10. Graph Data store.- Mostly Graph Database stores data in Key-Value format for fast lookup of vertex/Node. Majourly the difference for Graph 
+                       Database is the API for traversing the nodes. 
+                       
+Ref:  Azure Cosmos DB.
+https://channel9.msdn.com/Events/Build/2017/P4012?ocid=player
+
+
